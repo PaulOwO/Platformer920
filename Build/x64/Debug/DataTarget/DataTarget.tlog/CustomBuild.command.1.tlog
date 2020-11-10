@@ -1,0 +1,148 @@
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\CDE4D499865116D4A54CD88D52D14FA0\FLAG.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/flag.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/flag.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\C683C90254F8612170C9685797868562\HERO_JUMP.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/hero/hero_jump.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/hero/hero_jump.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\C683C90254F8612170C9685797868562\HERO_RUN.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/hero/hero_run.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/hero/hero_run.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\C683C90254F8612170C9685797868562\HERO_RUN2.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/hero/hero_run2.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/hero/hero_run2.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\C683C90254F8612170C9685797868562\HERO_RUN3.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/hero/hero_run3.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/hero/hero_run3.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\C683C90254F8612170C9685797868562\HERO_STILL.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/hero/hero_still.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/hero/hero_still.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\6CE9E0298792CA072A5206DC03590147\HERO1.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/hero/jump/hero1.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/hero/jump/hero1.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\851FC412A357DFE92C24DF7D5E9BD435\HERO1.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/hero/move/hero1.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/hero/move/hero1.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\851FC412A357DFE92C24DF7D5E9BD435\HERO2.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/hero/move/hero2.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/hero/move/hero2.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\851FC412A357DFE92C24DF7D5E9BD435\HERO3.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/hero/move/hero3.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/hero/move/hero3.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\7889BB4593F621E4AAC386EC5E072BCD\HERO1.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/hero/still/hero1.png C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/hero/still/hero1.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\CDE4D499865116D4A54CD88D52D14FA0\PLATFORM.JPG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/platform.jpg C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/platform.jpg
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\CDE4D499865116D4A54CD88D52D14FA0\WALL.JPG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/data/sprites/wall.jpg C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/data/sprites/wall.jpg
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\BUILD\CMAKEFILES\57199ECA2CB93B304068D79B7D316443\DATATARGET.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920 -BC:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build --check-stamp-file C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

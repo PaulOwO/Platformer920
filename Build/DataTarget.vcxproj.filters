@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\cde4d499865116d4a54cd88d52d14fa0\FLAG.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\c683c90254f8612170c9685797868562\hero_jump.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\c683c90254f8612170c9685797868562\hero_run.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\c683c90254f8612170c9685797868562\hero_run2.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\c683c90254f8612170c9685797868562\hero_run3.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\c683c90254f8612170c9685797868562\hero_still.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\6ce9e0298792ca072a5206dc03590147\hero1.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\851fc412a357dfe92c24df7d5e9bd435\hero1.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\851fc412a357dfe92c24df7d5e9bd435\hero2.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\851fc412a357dfe92c24df7d5e9bd435\hero3.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\7889bb4593f621e4aac386ec5e072bcd\hero1.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\cde4d499865116d4a54cd88d52d14fa0\platform.jpg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\cde4d499865116d4a54cd88d52d14fa0\wall.jpg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\57199eca2cb93b304068d79b7d316443\DataTarget.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\Build\CMakeFiles\DataTarget" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8EED9044-998F-3D9B-ACCC-823F39ACF3C6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

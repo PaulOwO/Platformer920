@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\src\Flag.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\src\contact_listener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\src\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\src\platform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\src\player_character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\include\Flag.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\include\contact_listener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\include\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\include\platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\include\player_character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\include\user_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\paulb\OneDrive\Documents\PROJET_SAE\Platformer920\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E3ECF0C3-8737-3A26-8D55-270103B7001D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{39EAF4F4-3C73-35A5-A555-3D74CB0405C8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

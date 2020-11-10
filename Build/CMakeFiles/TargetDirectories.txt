@@ -1,0 +1,4 @@
+C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/CMakeFiles/DataTarget.dir
+C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/CMakeFiles/Platformer.dir
+C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/CMakeFiles/ZERO_CHECK.dir

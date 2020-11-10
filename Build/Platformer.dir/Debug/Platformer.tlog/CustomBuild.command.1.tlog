@@ -1,0 +1,10 @@
+^C:\USERS\PAULB\ONEDRIVE\DOCUMENTS\PROJET_SAE\PLATFORMER920\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920 -BC:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build --check-stamp-file C:/Users/paulb/OneDrive/Documents/PROJET_SAE/Platformer920/Build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
